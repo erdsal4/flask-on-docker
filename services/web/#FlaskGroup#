@@ -1,0 +1,10 @@
+
+from project import app
+
+
+cli = FlaskGroup(app)
+
+
+if __name__ == "__main__":
+    cli()
+    65;6003;1c
